@@ -1,0 +1,328 @@
+{
+  "attributes": {
+    "num_valid_az": 1464.0,
+    "nrows": 1464.0,
+    "first_line": 1.0,
+    "deskew": "n",
+    "caltone": 0.0,
+    "st_rng_bin": 1.0,
+    "Flip_iq": "n",
+    "offset_video": "n",
+    "az_res": 0.0,
+    "nlooks": 1.0,
+    "chirp_ext": 0.0,
+    "scnd_rng_mig": 0.0,
+    "rng_spec_wgt": 1.0,
+    "rm_rng_band": 0.2,
+    "rm_az_band": 0.0,
+    "rshift": 0.0,
+    "ashift": 0.0,
+    "stretch_r": 0.0,
+    "stretch_a": 0.0,
+    "a_stretch_r": 0.0,
+    "a_stretch_a": 0.0,
+    "first_sample": 632.0,
+    "SC_identity": 10.0,
+    "num_rng_bins": 25132.0,
+    "bytes_per_line": 100528.0,
+    "good_bytes_per_line": 100528.0,
+    "PRF": 486.48631,
+    "pulse_dur": 5.339056e-05,
+    "near_range": 901572.049688,
+    "num_lines": 1464.0,
+    "num_patches": 1.0,
+    "SC_clock_start": 2023028.1485738188,
+    "SC_clock_stop": 2023028.1486086491,
+    "clock_start": 28.148573818949,
+    "clock_stop": 28.148608649208,
+    "orbdir": "D",
+    "lookdir": "R",
+    "radar_wavelength": 0.0554658,
+    "chirp_slope": 801451000000.0,
+    "rng_samp_rate": 64345238.125714,
+    "I_mean": 0.0,
+    "Q_mean": 0.0,
+    "equatorial_radius": 6378137.0,
+    "polar_radius": 6356752.31,
+    "fdd1": 0.0,
+    "fddd1": 0.0,
+    "sub_int_r": 0.0,
+    "sub_int_a": 0.0,
+    "dtype": "a",
+    "SLC_scale": 1.0,
+    "SC_vel": 7147.56818,
+    "earth_radius": 6369466.744106,
+    "SC_height": 700935.389907,
+    "SC_height_start": 700920.103761,
+    "SC_height_end": 700950.686492,
+    "fd1": 0.0,
+    "BPR": 0.0,
+    "geometry": "MULTIPOLYGON (((37.47279161868077 40.72888241863554, 37.42138879994499 40.73547144397733, 37.36965336750035 40.74207794284585, 37.31669570727155 40.74881337416434, 37.26886056005223 40.7548812053666, 37.21517546957048 40.76165812397669, 37.16492644595749 40.76798122863249, 37.11447757523544 40.77430578381863, 37.06404332521479 40.78060503616873, 37.01441817058211 40.78678137813682, 36.96706425463029 40.79265695246608, 36.91781119574861 40.79874354222165, 36.87058774643169 40.80456107426382, 36.82246455312237 40.81046705975424, 36.77374401882437 40.81642388309091, 36.72536378981949 40.82231788563998, 36.67699135956501 40.82818943478826, 36.62748509832774 40.83417473689182, 36.58244616490271 40.83960655241448, 36.53404739534141 40.8454176734448, 36.48899973907184 40.85081139536109, 36.45639375936202 40.68458887569111, 36.50462223394104 40.67879749474979, 36.55242159542706 40.6730354686872, 36.60009563509218 40.66726753616275, 36.64581968845744 40.66171317911369, 36.69322170697728 40.65593719262704, 36.74166646006706 40.65001421705468, 36.79126008056061 40.64393006893221, 36.84063056556631 40.63785050581087, 36.88962798127434 40.63179421286589, 36.93482389626869 40.62618310459644, 36.98417145297773 40.62004108603015, 37.02757821025751 40.61461213694245, 37.07573911767047 40.60857544301598, 37.12562775693734 40.60230197453125, 37.17457966915216 40.59612270846699, 37.22488206452766 40.58975177688856, 37.27710511453814 40.58311532694102, 37.32595550174734 40.57688054722636, 37.37692895223503 40.57035400263865, 37.42790171912299 40.56380359871255, 37.47279161868077 40.72888241863554)))",
+    "beamModeType": "IW",
+    "mission": "S1A",
+    "subswath": "IW3",
+    "pathNumber": 21,
+    "flightDirection": "DESCENDING",
+    "startTime": "2023-01-29 03:33:56",
+    "burst": "S1_043792_IW3_20230129T033356_VH_DAAA-BURST",
+    "polarization": "VH",
+    "fullBurstID": "021_043792_IW3",
+    "Conventions": "CF-1.8",
+    "coordinates": "spatial_ref",
+    "spatial_ref": "PROJCS[\"WGS 84 / UTM zone 37N\",GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",39],PARAMETER[\"scale_factor\",0.9996],PARAMETER[\"false_easting\",500000],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"EPSG\",\"32637\"]]"
+  },
+  "zarr_format": 3,
+  "consolidated_metadata": {
+    "kind": "inline",
+    "must_understand": false,
+    "metadata": {
+      "re": {
+        "shape": [
+          881,
+          8611
+        ],
+        "data_type": "int16",
+        "chunk_grid": {
+          "name": "regular",
+          "configuration": {
+            "chunk_shape": [
+              881,
+              2560
+            ]
+          }
+        },
+        "chunk_key_encoding": {
+          "name": "default",
+          "configuration": {
+            "separator": "/"
+          }
+        },
+        "fill_value": 32767,
+        "codecs": [
+          {
+            "name": "bytes",
+            "configuration": {
+              "endian": "little"
+            }
+          },
+          {
+            "name": "blosc",
+            "configuration": {
+              "typesize": 2,
+              "cname": "zstd",
+              "clevel": 6,
+              "shuffle": "noshuffle",
+              "blocksize": 0
+            }
+          }
+        ],
+        "attributes": {
+          "num_valid_az": 1464.0,
+          "nrows": 1464.0,
+          "first_line": 1.0,
+          "deskew": "n",
+          "caltone": 0.0,
+          "st_rng_bin": 1.0,
+          "Flip_iq": "n",
+          "offset_video": "n",
+          "az_res": 0.0,
+          "nlooks": 1.0,
+          "chirp_ext": 0.0,
+          "scnd_rng_mig": 0.0,
+          "rng_spec_wgt": 1.0,
+          "rm_rng_band": 0.2,
+          "rm_az_band": 0.0,
+          "rshift": 0.0,
+          "ashift": 0.0,
+          "stretch_r": 0.0,
+          "stretch_a": 0.0,
+          "a_stretch_r": 0.0,
+          "a_stretch_a": 0.0,
+          "first_sample": 632.0,
+          "SC_identity": 10.0,
+          "num_rng_bins": 25132.0,
+          "bytes_per_line": 100528.0,
+          "good_bytes_per_line": 100528.0,
+          "PRF": 486.48631,
+          "pulse_dur": 5.339056e-05,
+          "near_range": 901572.049688,
+          "num_lines": 1464.0,
+          "num_patches": 1.0,
+          "SC_clock_start": 2023028.1485738188,
+          "SC_clock_stop": 2023028.1486086491,
+          "clock_start": 28.148573818949,
+          "clock_stop": 28.148608649208,
+          "orbdir": "D",
+          "lookdir": "R",
+          "radar_wavelength": 0.0554658,
+          "chirp_slope": 801451000000.0,
+          "rng_samp_rate": 64345238.125714,
+          "I_mean": 0.0,
+          "Q_mean": 0.0,
+          "equatorial_radius": 6378137.0,
+          "polar_radius": 6356752.31,
+          "fdd1": 0.0,
+          "fddd1": 0.0,
+          "sub_int_r": 0.0,
+          "sub_int_a": 0.0,
+          "dtype": "a",
+          "SLC_scale": 1.0,
+          "SC_vel": 7147.56818,
+          "earth_radius": 6369466.744106,
+          "SC_height": 700935.389907,
+          "SC_height_start": 700920.103761,
+          "SC_height_end": 700950.686492,
+          "fd1": 0.0,
+          "BPR": 0.0,
+          "geometry": "MULTIPOLYGON (((37.47279161868077 40.72888241863554, 37.42138879994499 40.73547144397733, 37.36965336750035 40.74207794284585, 37.31669570727155 40.74881337416434, 37.26886056005223 40.7548812053666, 37.21517546957048 40.76165812397669, 37.16492644595749 40.76798122863249, 37.11447757523544 40.77430578381863, 37.06404332521479 40.78060503616873, 37.01441817058211 40.78678137813682, 36.96706425463029 40.79265695246608, 36.91781119574861 40.79874354222165, 36.87058774643169 40.80456107426382, 36.82246455312237 40.81046705975424, 36.77374401882437 40.81642388309091, 36.72536378981949 40.82231788563998, 36.67699135956501 40.82818943478826, 36.62748509832774 40.83417473689182, 36.58244616490271 40.83960655241448, 36.53404739534141 40.8454176734448, 36.48899973907184 40.85081139536109, 36.45639375936202 40.68458887569111, 36.50462223394104 40.67879749474979, 36.55242159542706 40.6730354686872, 36.60009563509218 40.66726753616275, 36.64581968845744 40.66171317911369, 36.69322170697728 40.65593719262704, 36.74166646006706 40.65001421705468, 36.79126008056061 40.64393006893221, 36.84063056556631 40.63785050581087, 36.88962798127434 40.63179421286589, 36.93482389626869 40.62618310459644, 36.98417145297773 40.62004108603015, 37.02757821025751 40.61461213694245, 37.07573911767047 40.60857544301598, 37.12562775693734 40.60230197453125, 37.17457966915216 40.59612270846699, 37.22488206452766 40.58975177688856, 37.27710511453814 40.58311532694102, 37.32595550174734 40.57688054722636, 37.37692895223503 40.57035400263865, 37.42790171912299 40.56380359871255, 37.47279161868077 40.72888241863554)))",
+          "beamModeType": "IW",
+          "mission": "S1A",
+          "subswath": "IW3",
+          "pathNumber": 21,
+          "flightDirection": "DESCENDING",
+          "startTime": "2023-01-29 03:33:56",
+          "burst": "S1_043792_IW3_20230129T033356_VH_DAAA-BURST",
+          "polarization": "VH",
+          "fullBurstID": "021_043792_IW3",
+          "Conventions": "CF-1.8",
+          "coordinates": "spatial_ref",
+          "spatial_ref": "PROJCS[\"WGS 84 / UTM zone 37N\",GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",39],PARAMETER[\"scale_factor\",0.9996],PARAMETER[\"false_easting\",500000],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"EPSG\",\"32637\"]]",
+          "scale_factor": 2.5e-07,
+          "add_offset": 0,
+          "_FillValue": 32767
+        },
+        "dimension_names": [
+          "y",
+          "x"
+        ],
+        "zarr_format": 3,
+        "node_type": "array",
+        "storage_transformers": []
+      },
+      "im": {
+        "shape": [
+          881,
+          8611
+        ],
+        "data_type": "int16",
+        "chunk_grid": {
+          "name": "regular",
+          "configuration": {
+            "chunk_shape": [
+              881,
+              2560
+            ]
+          }
+        },
+        "chunk_key_encoding": {
+          "name": "default",
+          "configuration": {
+            "separator": "/"
+          }
+        },
+        "fill_value": 32767,
+        "codecs": [
+          {
+            "name": "bytes",
+            "configuration": {
+              "endian": "little"
+            }
+          },
+          {
+            "name": "blosc",
+            "configuration": {
+              "typesize": 2,
+              "cname": "zstd",
+              "clevel": 6,
+              "shuffle": "noshuffle",
+              "blocksize": 0
+            }
+          }
+        ],
+        "attributes": {
+          "num_valid_az": 1464.0,
+          "nrows": 1464.0,
+          "first_line": 1.0,
+          "deskew": "n",
+          "caltone": 0.0,
+          "st_rng_bin": 1.0,
+          "Flip_iq": "n",
+          "offset_video": "n",
+          "az_res": 0.0,
+          "nlooks": 1.0,
+          "chirp_ext": 0.0,
+          "scnd_rng_mig": 0.0,
+          "rng_spec_wgt": 1.0,
+          "rm_rng_band": 0.2,
+          "rm_az_band": 0.0,
+          "rshift": 0.0,
+          "ashift": 0.0,
+          "stretch_r": 0.0,
+          "stretch_a": 0.0,
+          "a_stretch_r": 0.0,
+          "a_stretch_a": 0.0,
+          "first_sample": 632.0,
+          "SC_identity": 10.0,
+          "num_rng_bins": 25132.0,
+          "bytes_per_line": 100528.0,
+          "good_bytes_per_line": 100528.0,
+          "PRF": 486.48631,
+          "pulse_dur": 5.339056e-05,
+          "near_range": 901572.049688,
+          "num_lines": 1464.0,
+          "num_patches": 1.0,
+          "SC_clock_start": 2023028.1485738188,
+          "SC_clock_stop": 2023028.1486086491,
+          "clock_start": 28.148573818949,
+          "clock_stop": 28.148608649208,
+          "orbdir": "D",
+          "lookdir": "R",
+          "radar_wavelength": 0.0554658,
+          "chirp_slope": 801451000000.0,
+          "rng_samp_rate": 64345238.125714,
+          "I_mean": 0.0,
+          "Q_mean": 0.0,
+          "equatorial_radius": 6378137.0,
+          "polar_radius": 6356752.31,
+          "fdd1": 0.0,
+          "fddd1": 0.0,
+          "sub_int_r": 0.0,
+          "sub_int_a": 0.0,
+          "dtype": "a",
+          "SLC_scale": 1.0,
+          "SC_vel": 7147.56818,
+          "earth_radius": 6369466.744106,
+          "SC_height": 700935.389907,
+          "SC_height_start": 700920.103761,
+          "SC_height_end": 700950.686492,
+          "fd1": 0.0,
+          "BPR": 0.0,
+          "geometry": "MULTIPOLYGON (((37.47279161868077 40.72888241863554, 37.42138879994499 40.73547144397733, 37.36965336750035 40.74207794284585, 37.31669570727155 40.74881337416434, 37.26886056005223 40.7548812053666, 37.21517546957048 40.76165812397669, 37.16492644595749 40.76798122863249, 37.11447757523544 40.77430578381863, 37.06404332521479 40.78060503616873, 37.01441817058211 40.78678137813682, 36.96706425463029 40.79265695246608, 36.91781119574861 40.79874354222165, 36.87058774643169 40.80456107426382, 36.82246455312237 40.81046705975424, 36.77374401882437 40.81642388309091, 36.72536378981949 40.82231788563998, 36.67699135956501 40.82818943478826, 36.62748509832774 40.83417473689182, 36.58244616490271 40.83960655241448, 36.53404739534141 40.8454176734448, 36.48899973907184 40.85081139536109, 36.45639375936202 40.68458887569111, 36.50462223394104 40.67879749474979, 36.55242159542706 40.6730354686872, 36.60009563509218 40.66726753616275, 36.64581968845744 40.66171317911369, 36.69322170697728 40.65593719262704, 36.74166646006706 40.65001421705468, 36.79126008056061 40.64393006893221, 36.84063056556631 40.63785050581087, 36.88962798127434 40.63179421286589, 36.93482389626869 40.62618310459644, 36.98417145297773 40.62004108603015, 37.02757821025751 40.61461213694245, 37.07573911767047 40.60857544301598, 37.12562775693734 40.60230197453125, 37.17457966915216 40.59612270846699, 37.22488206452766 40.58975177688856, 37.27710511453814 40.58311532694102, 37.32595550174734 40.57688054722636, 37.37692895223503 40.57035400263865, 37.42790171912299 40.56380359871255, 37.47279161868077 40.72888241863554)))",
+          "beamModeType": "IW",
+          "mission": "S1A",
+          "subswath": "IW3",
+          "pathNumber": 21,
+          "flightDirection": "DESCENDING",
+          "startTime": "2023-01-29 03:33:56",
+          "burst": "S1_043792_IW3_20230129T033356_VH_DAAA-BURST",
+          "polarization": "VH",
+          "fullBurstID": "021_043792_IW3",
+          "Conventions": "CF-1.8",
+          "coordinates": "spatial_ref",
+          "spatial_ref": "PROJCS[\"WGS 84 / UTM zone 37N\",GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",39],PARAMETER[\"scale_factor\",0.9996],PARAMETER[\"false_easting\",500000],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"EPSG\",\"32637\"]]",
+          "scale_factor": 2.5e-07,
+          "add_offset": 0,
+          "_FillValue": 32767
+        },
+        "dimension_names": [
+          "y",
+          "x"
+        ],
+        "zarr_format": 3,
+        "node_type": "array",
+        "storage_transformers": []
+      }
+    }
+  },
+  "node_type": "group"
+}
