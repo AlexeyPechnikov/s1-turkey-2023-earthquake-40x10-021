@@ -1,0 +1,51 @@
+{
+  "shape": [
+    961
+  ],
+  "data_type": "float64",
+  "chunk_grid": {
+    "name": "regular",
+    "configuration": {
+      "chunk_shape": [
+        961
+      ]
+    }
+  },
+  "chunk_key_encoding": {
+    "name": "default",
+    "configuration": {
+      "separator": "/"
+    }
+  },
+  "fill_value": "NaN",
+  "codecs": [
+    {
+      "name": "bytes",
+      "configuration": {
+        "endian": "little"
+      }
+    },
+    {
+      "name": "blosc",
+      "configuration": {
+        "typesize": 8,
+        "cname": "zstd",
+        "clevel": 6,
+        "shuffle": "bitshuffle",
+        "blocksize": 0
+      }
+    }
+  ],
+  "attributes": {
+    "axis": "Y",
+    "standard_name": "projection_y_coordinate",
+    "long_name": "northing",
+    "_FillValue": "AAAAAAAA+H8="
+  },
+  "dimension_names": [
+    "y"
+  ],
+  "zarr_format": 3,
+  "node_type": "array",
+  "storage_transformers": []
+}
